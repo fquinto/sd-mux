@@ -27,8 +27,8 @@
 
 #include <libftdi1/ftdi.h>
 
-#define PRODUCT 0x6001
-#define SAMSUNG_VENDOR 0x04e8
+#define PRODUCT 0x6015
+#define SAMSUNG_VENDOR 0x0403
 
 // SDMUX specific definitions
 #define SOCKET_SEL      (0x01 << 0x00)
